@@ -1,1 +1,1 @@
-# CS-690-Computational-genomics-
+# CS-690-Computational-Genomics
